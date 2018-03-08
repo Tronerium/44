@@ -52,12 +52,8 @@ h2{
 	line-height: 4em;
 }
 
-iframe:focus { 
+iframe{ 
     outline: none;
-}
-
-iframe[seamless] { 
-    display: block;
 }
 
 #particles-js{
